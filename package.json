@@ -14,9 +14,9 @@
     "url": "https://github.com/giantss/cordova-plugin-ImagePicker"
   },
   "keywords": [
-    "cordova",
-    "cordova-ios",
+    "ecosystem:cordova",
     "cordova-android",
+    "cordova-ios",
     "ImagePicker"
   ],
   "author": "giantss",
